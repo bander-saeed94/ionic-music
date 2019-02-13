@@ -1,2 +1,2 @@
 # ionic-music
-Bulid with a course in Lynda
+Built with a course in Lynda
